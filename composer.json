@@ -1,0 +1,18 @@
+{
+    "name": "abdulblueskylabs/dgtek-models",
+    "type": "library",
+    "description": "shared models",
+    "homepage": "https://",
+    "authors": [
+        {
+            "name": "abdulblueskylabs",
+            "email": "abdul@blueskylabs.com.au",
+            "role": "<developer>"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DGtek\\SharedModels\\": "src"
+        }
+    }
+}
